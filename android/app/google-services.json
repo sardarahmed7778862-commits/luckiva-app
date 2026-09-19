@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513631515721",
+    "project_id": "winmax-pakistan",
+    "storage_bucket": "winmax-pakistan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513631515721:android:89361b015aa95129fabb98",
+        "android_client_info": {
+          "package_name": "com.example.winmax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIwaNWZ_a-lPF-CSWaBM_gu27kKu549eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
